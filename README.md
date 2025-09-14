@@ -17,6 +17,7 @@ A collection of small to mid-sized React projects built for learning and practic
 - Tailwind CSS
 - Redux Toolkit
 - React Router
+- Context API + Usereducer
 
 ## 🚀 Getting Started
 
