@@ -6,7 +6,9 @@ A collection of small to mid-sized React projects built for learning and practic
 
 > Projects are organized in folders, each representing a standalone React application.
 
-- **Project 1: [reduxShoppingCart]** – A project that demonstrates basic usage of react router and redux toolkit.
+- **Project 1: [bookSearch]** – A project that demonstrates data fetching from API and showing.
+- **Project 2: [contextReducerShoppingCart]** – A project that demonstrates usage of Context API with Usereducer hook.
+- **Project 3: [reduxShoppingCart]** – A project that demonstrates basic usage of react router and redux toolkit.
 
 
 ## 🛠 Tech Stack
